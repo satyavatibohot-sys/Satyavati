@@ -1,0 +1,6 @@
+{
+  "name": "AniStream",
+  "description": "Stream high-quality anime episodes with Hindi dubbing, offline downloads, and cloud-synced watchlist.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
